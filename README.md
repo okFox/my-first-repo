@@ -1,6 +1,13 @@
 # my-first-repo
-alchemy prep week test
-better README, really\!
+I'm learning markdown!
+
+# header
 
 
-some edit
+## smaller header
+
+
+_special note:_ the triple back ticks must be on a seperate line
+``` 
+\\ some javascript code
+console.log("hi there')
